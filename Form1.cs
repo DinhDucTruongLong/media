@@ -43,6 +43,7 @@ namespace chen_media
             }
         }
         //hôm nay tôi thuyêt trình khong đuộc tót
+        // cố lên bản thân toi oi.....
 
 
         private void mnufileOpen_Click(object sender, EventArgs e)
