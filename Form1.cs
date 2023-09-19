@@ -36,8 +36,8 @@ namespace chen_media
 
         private void mnufileExit_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("Bạn có muốn thoát không!", "Thông báo", MessageBoxButtons.YesNo);
-            if (result == DialogResult.Yes)
+          //  DialogResult result = MessageBox.Show("Bạn có muốn thoát không!", "Thông báo", MessageBoxButtons.YesNo);
+           // if (result == DialogResult.Yes)
             {
                 Close();
             }
