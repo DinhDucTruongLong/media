@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace chen_media
 {
+    // file media để thuyêt trình cho ngày maigi
     public partial class Form1 : Form
     {
         public Form1()
