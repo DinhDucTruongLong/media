@@ -1,0 +1,15 @@
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\bin\Debug\chen-media.exe.config
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\bin\Debug\chen-media.exe
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\bin\Debug\chen-media.pdb
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\bin\Debug\Interop.WMPLib.dll
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\bin\Debug\AxInterop.WMPLib.dll
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen-media.csproj.AssemblyReference.cache
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\Interop.WMPLib.dll
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\AxInterop.WMPLib.dll
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen-media.csproj.ResolveComReference.cache
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen_media.Form1.resources
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen_media.Properties.Resources.resources
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen-media.csproj.GenerateResource.cache
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen-media.csproj.CoreCompileInputs.cache
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen-media.exe
+E:\DinhDucTruongLong-2180607124-BTWindows\chen-media\obj\Debug\chen-media.pdb
