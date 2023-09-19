@@ -42,6 +42,8 @@ namespace chen_media
                 Close();
             }
         }
+        //hôm nay tôi thuyêt trình khong đuộc tót
+
 
         private void mnufileOpen_Click(object sender, EventArgs e)
         {
